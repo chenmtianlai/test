@@ -1,5 +1,5 @@
 {
-  "originHash" : "a28d3ec95a28da1cd0609d95d412d17da97412247bbbdc6361154c0a7c8a4fe6",
+  "originHash" : "c0084460cb4cca084a2be63930dfbbb3108306bd7f43464f86c569dd6ecc4dcc",
   "pins" : [
     {
       "identity" : "agorainfra_ios",
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/AgoraIO/AgoraRtm_Apple.git",
       "state" : {
-        "branch" : "2.2.5_lite",
-        "revision" : "442aa74e8fa356a6efeadec93878c6e4e083dd2a"
+        "revision" : "078399d7698105bc0f9accd41a990b91ecdb4d60",
+        "version" : "2.2.4"
       }
     }
   ],
